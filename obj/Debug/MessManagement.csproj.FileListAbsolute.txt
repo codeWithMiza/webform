@@ -1,0 +1,183 @@
+D:\MessManagement\MessManagement\bin\MessManagement.dll.config
+D:\MessManagement\MessManagement\bin\MessManagement.dll
+D:\MessManagement\MessManagement\bin\MessManagement.pdb
+D:\MessManagement\MessManagement\bin\roslyn\csc.exe
+D:\MessManagement\MessManagement\bin\roslyn\csc.exe.config
+D:\MessManagement\MessManagement\bin\roslyn\csc.rsp
+D:\MessManagement\MessManagement\bin\roslyn\csi.exe
+D:\MessManagement\MessManagement\bin\roslyn\csi.exe.config
+D:\MessManagement\MessManagement\bin\roslyn\csi.rsp
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MessManagement\MessManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.AppContext.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Console.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.IO.Compression.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Net.Http.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Net.Sockets.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.ValueTuple.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Xml.XPath.dll
+D:\MessManagement\MessManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MessManagement\MessManagement\bin\roslyn\vbc.exe
+D:\MessManagement\MessManagement\bin\roslyn\vbc.exe.config
+D:\MessManagement\MessManagement\bin\roslyn\vbc.rsp
+D:\MessManagement\MessManagement\bin\roslyn\VBCSCompiler.exe
+D:\MessManagement\MessManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\MessManagement\MessManagement\bin\AspNet.ScriptManager.jQuery.dll
+D:\MessManagement\MessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MessManagement\MessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MessManagement\MessManagement\obj\Debug\MessManagement.csprojAssemblyReference.cache
+D:\MessManagement\MessManagement\obj\Debug\MessManagement.csproj.CoreCompileInputs.cache
+D:\MessManagement\MessManagement\obj\Debug\MessManagement.csproj.CopyComplete
+D:\MessManagement\MessManagement\obj\Debug\MessManagement.dll
+D:\MessManagement\MessManagement\obj\Debug\MessManagement.pdb
+G:\ASP Dot Net\MessManagement\bin\MessManagement.dll.config
+G:\ASP Dot Net\MessManagement\bin\MessManagement.dll
+G:\ASP Dot Net\MessManagement\bin\MessManagement.pdb
+G:\ASP Dot Net\MessManagement\bin\roslyn\csc.exe
+G:\ASP Dot Net\MessManagement\bin\roslyn\csc.exe.config
+G:\ASP Dot Net\MessManagement\bin\roslyn\csc.rsp
+G:\ASP Dot Net\MessManagement\bin\roslyn\csi.exe
+G:\ASP Dot Net\MessManagement\bin\roslyn\csi.exe.config
+G:\ASP Dot Net\MessManagement\bin\roslyn\csi.rsp
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASP Dot Net\MessManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.AppContext.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Console.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Globalization.Calendars.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.IO.Compression.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.IO.FileSystem.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Net.Http.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Net.Sockets.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.ValueTuple.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Xml.XPath.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ASP Dot Net\MessManagement\bin\roslyn\vbc.exe
+G:\ASP Dot Net\MessManagement\bin\roslyn\vbc.exe.config
+G:\ASP Dot Net\MessManagement\bin\roslyn\vbc.rsp
+G:\ASP Dot Net\MessManagement\bin\roslyn\VBCSCompiler.exe
+G:\ASP Dot Net\MessManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\ASP Dot Net\MessManagement\bin\AspNet.ScriptManager.jQuery.dll
+G:\ASP Dot Net\MessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASP Dot Net\MessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASP Dot Net\MessManagement\obj\Debug\MessManagement.csproj.CoreCompileInputs.cache
+G:\ASP Dot Net\MessManagement\obj\Debug\MessManagement.csproj.CopyComplete
+G:\ASP Dot Net\MessManagement\obj\Debug\MessManagement.dll
+G:\ASP Dot Net\MessManagement\obj\Debug\MessManagement.pdb
+D:\MessManagement\bin\MessManagement.dll.config
+D:\MessManagement\bin\MessManagement.dll
+D:\MessManagement\bin\MessManagement.pdb
+D:\MessManagement\bin\roslyn\csc.exe
+D:\MessManagement\bin\roslyn\csc.exe.config
+D:\MessManagement\bin\roslyn\csc.rsp
+D:\MessManagement\bin\roslyn\csi.exe
+D:\MessManagement\bin\roslyn\csi.exe.config
+D:\MessManagement\bin\roslyn\csi.rsp
+D:\MessManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MessManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MessManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MessManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MessManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MessManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MessManagement\bin\roslyn\System.AppContext.dll
+D:\MessManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\MessManagement\bin\roslyn\System.Console.dll
+D:\MessManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MessManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MessManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MessManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\MessManagement\bin\roslyn\System.IO.Compression.dll
+D:\MessManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MessManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\MessManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MessManagement\bin\roslyn\System.Net.Http.dll
+D:\MessManagement\bin\roslyn\System.Net.Sockets.dll
+D:\MessManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\MessManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MessManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MessManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MessManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MessManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MessManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MessManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MessManagement\bin\roslyn\System.ValueTuple.dll
+D:\MessManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MessManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MessManagement\bin\roslyn\System.Xml.XPath.dll
+D:\MessManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MessManagement\bin\roslyn\vbc.exe
+D:\MessManagement\bin\roslyn\vbc.exe.config
+D:\MessManagement\bin\roslyn\vbc.rsp
+D:\MessManagement\bin\roslyn\VBCSCompiler.exe
+D:\MessManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\MessManagement\bin\AspNet.ScriptManager.jQuery.dll
+D:\MessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MessManagement\obj\Debug\MessManagement.csprojAssemblyReference.cache
+D:\MessManagement\obj\Debug\MessManagement.csproj.CoreCompileInputs.cache
+D:\MessManagement\obj\Debug\MessManagement.csproj.CopyComplete
+D:\MessManagement\obj\Debug\MessManagement.dll
+D:\MessManagement\obj\Debug\MessManagement.pdb
+D:\MessManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MessManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ASP Dot Net\MessManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ASP Dot Net\MessManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
